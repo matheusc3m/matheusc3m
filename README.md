@@ -16,12 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/matheus3m" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://linkedin.com/in/matheus3m" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
