@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusc3m" alt="matheusc3m" /></a> </p>
 
-- 🔭 I’m currently working on **a startup in stealth mode**
+- 🔭 I’m currently working on **Oficina%**
 
 - 🌱 I’m currently learning **Information systems at Centro Universitário de Patos de Minas**
 
